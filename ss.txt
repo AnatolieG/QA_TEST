@@ -1,9 +1,8 @@
 commit 1
 commit 2
 commit 3
-commit dev N 1
- HEAD
+commit
 merge
-merge din dev
+merge
 dev
 fgh
